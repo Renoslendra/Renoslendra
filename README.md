@@ -18,6 +18,6 @@
 ![](renoslendra.me)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Renoslendra&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](renoslendra.me)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
