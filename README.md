@@ -18,6 +18,6 @@
 ![](renoslendra.me)
 
 ---
-[![](renoslendra.me)](https://visitcount.itsvg.in)
+[![](renoslendra.me)](https://renoslendra.me)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
