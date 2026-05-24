@@ -142,8 +142,8 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/Renoslendra">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renoslendra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&icon_color=F7DC6F&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renoslendra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Renoslendra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&icon_color=F7DC6F&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Renoslendra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
