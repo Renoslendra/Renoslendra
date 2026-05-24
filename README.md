@@ -191,9 +191,9 @@ hobbies:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renoslendra/Renoslendra/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renoslendra/Renoslendra/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renoslendra/Renoslendra/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renoslendra/Renoslendra/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renoslendra/Renoslendra/output/github-contribution-grid-snake.svg?v=2" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renoslendra/Renoslendra/output/github-contribution-grid-snake.svg?v=2" />
   </picture>
 </p>
 
@@ -209,7 +209,7 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/Renoslendra">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=2" alt="3D Contribution Graph" width="100%"/>
   </a>
 </p>
 
