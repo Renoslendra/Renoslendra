@@ -44,18 +44,20 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <pre><code>{
-  "developer": "Reno Syaelendra",
-  "role": "Full Stack Developer & AI Enthusiast",
-  "location": "Indonesia 🇮🇩",
-  "education": "Informatics Engineering",
-  "skills": ["JavaScript", "TypeScript", "Python", "PHP", "Cloud"],
-  "focus": ["Deep Learning", "Web Architecture", "UI/UX Delight"],
-  "website": "renoslendra.me"
+      <pre><code class="language-typescript">import { FullStack, AI } from 'developer';
+
+class RenoSyaelendra extends Developer implements FullStack, AI {
+  name      = "Reno Syaelendra";
+  location  = "Indonesia 🇮🇩";
+  education = "Informatics Engineering";
+  
+  skills    = [ "React", "Next.js", "Node.js", "Python", "Cloud" ];
+  focus     = [ "Deep Learning", "Cloud Architecture", "UI/UX Delight" ];
+  website   = "renoslendra.me";
 }</code></pre>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./coding.gif" width="100%" alt="Developer Illustration" />
+      <img src="https://raw.githubusercontent.com/Renoslendra/Renoslendra/main/coding.gif" width="100%" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
