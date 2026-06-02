@@ -53,7 +53,7 @@
 }</code></pre>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="./coding_developer.png" width="90%" alt="Developer Illustration" />
+      <img src="https://i.giphy.com/media/SWoSkN6dxTszqIKEqv/giphy.gif" width="90%" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
