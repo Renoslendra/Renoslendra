@@ -41,14 +41,21 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-<table>
-<tr><td>👤</td><td><strong>Reno Syaelendra</strong></td></tr>
-<tr><td>📍</td><td>Indonesia 🇮🇩</td></tr>
-<tr><td>🎓</td><td>Informatics Engineering</td></tr>
-<tr><td>💼</td><td>Full Stack Developer</td></tr>
-<tr><td>🌐</td><td><a href="https://renoslendra.me">renoslendra.me</a></td></tr>
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <pre><code>{
+  "name": "Reno Syaelendra",
+  "location": "Indonesia 🇮🇩",
+  "education": "Informatics Engineering",
+  "role": "Full Stack Developer",
+  "website": "renoslendra.me"
+}</code></pre>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="./coding_developer.png" width="90%" alt="Developer Illustration" />
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -57,8 +64,6 @@
 - 🌱 &nbsp;Learning **Advanced AI/ML, Cloud Architecture & DevOps**
 - 💬 &nbsp;Ask me about **React, Python, Node.js, Cloud Computing**
 - ⚡ &nbsp;Fun fact: **I can code for hours while listening to lo-fi beats** 🎵
-
-<br clear="both"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🎯 2026 GOALS & FOCUS                                          -->
