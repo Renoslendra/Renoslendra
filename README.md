@@ -45,15 +45,17 @@
   <tr>
     <td width="55%" valign="top">
       <pre><code>{
-  "name": "Reno Syaelendra",
+  "developer": "Reno Syaelendra",
+  "role": "Full Stack Developer & AI Enthusiast",
   "location": "Indonesia 🇮🇩",
   "education": "Informatics Engineering",
-  "role": "Full Stack Developer",
+  "skills": ["JavaScript", "TypeScript", "Python", "PHP", "Cloud"],
+  "focus": ["Deep Learning", "Web Architecture", "UI/UX Delight"],
   "website": "renoslendra.me"
 }</code></pre>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://i.giphy.com/media/SWoSkN6dxTszqIKEqv/giphy.gif" width="90%" alt="Developer Illustration" />
+      <img src="./coding.gif" width="100%" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
