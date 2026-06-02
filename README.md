@@ -162,12 +162,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Renoslendra/MySPAMBot-OTP">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Renoslendra&repo=MySPAMBot-OTP&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&icon_color=F7DC6F&text_color=c9d1d9" alt="MySPAMBot-OTP"/>
+  <a href="https://github.com/Renoslendra/DEEP-LEARNING-AI-VS-REAL">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Renoslendra&repo=DEEP-LEARNING-AI-VS-REAL&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&icon_color=F7DC6F&text_color=c9d1d9" alt="DEEP-LEARNING-AI-VS-REAL"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Renoslendra/cerdas-snbt">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Renoslendra&repo=cerdas-snbt&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&icon_color=F7DC6F&text_color=c9d1d9" alt="cerdas-snbt"/>
+  <a href="https://github.com/Renoslendra/zakatramadhan">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Renoslendra&repo=zakatramadhan&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DC6F&icon_color=F7DC6F&text_color=c9d1d9" alt="zakatramadhan"/>
   </a>
 </p>
 
